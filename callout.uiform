@@ -1,0 +1,28 @@
+﻿{
+  "Metadata": {
+    "Id": "8bd405a0-aeef-42f2-810f-06f085e259bb",
+    "DisplayName": "callout",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "callout",
+    "Width": 300,
+    "Height": 130,
+    "Theme": "Default",
+    "ShowInTaskbar": false,
+    "ShowMargin": false,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "content": "Loading...",
+        "key": "text",
+        "input": false,
+        "tableView": false,
+        "label": "Label",
+        "type": "label"
+      }
+    ]
+  }
+}
